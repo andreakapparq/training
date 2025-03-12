@@ -1,4 +1,4 @@
-from app.kata_manhattan import manhattan_distance,Point
+from kata_manhattan import manhattan_distance,Point
 
 
 def test_manhattan_distance_empty():
