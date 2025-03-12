@@ -6,14 +6,16 @@ Manhattan distance is the distance between two points in a grid (like the grid-l
 
 ## Step 1
 
-Write a function int manhattanDistance(Point a, Point b) that returns the Manhattan Distance between the two points.
+* Write a function int manhattanDistance(Point a, Point b) that returns the Manhattan Distance between the two points.
 
-Point should be a class
+* Point should be a class
+* Add necessary tests to better test the behavior 
 
 ## Step 2
 
 Apply the following rules
 
-The class Point is immutable (its state cannot be changed after instantiation)
-The class Point has no Getters
-The class Point has no public properties (i.e. the internal state cannot be read from outside the class).
+* The class Point is immutable (its state cannot be changed after instantiation)
+* The class Point has no Getters
+* The class Point has no public properties (i.e. the internal state cannot be read from outside the class).
+
